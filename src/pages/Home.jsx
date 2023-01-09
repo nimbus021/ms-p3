@@ -1,4 +1,4 @@
-import Desserts from "../components/Desserts";
+import Veggie from "../components/Veggie";
 import Popular from "../components/Popular";
 
 import React from 'react'
@@ -8,7 +8,7 @@ function Home() {
     <div>
 
         <Popular />
-        <Desserts />
+        <Veggie />
         
     </div>
   )
